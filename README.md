@@ -1,1 +1,3 @@
-# Hackerearth-solution
+# Hackerearth-solutions
+
+difficulty level:All
